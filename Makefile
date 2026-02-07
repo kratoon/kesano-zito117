@@ -5,6 +5,7 @@ install-mkdocs:
 	python3 -m pip install mkdocs
 	python3 -m pip install mkdocs-material
 	python3 -m pip install mkdocs-minify-plugin
+	python3 -m pip install mkdocs-static-i18n
 	python3 -m pip install 'mkdocs[i18n]'
 
 serve:

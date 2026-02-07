@@ -1,6 +1,0 @@
----
-hide:
-  - navigation
----
-
-# Žitná Apartment

@@ -5,6 +5,7 @@ theme:
   name: material
   logo: public/logo.webp
   favicon: public/favicon.ico
+  language: en
   palette:
     - scheme: default
       primary: white
@@ -18,6 +19,21 @@ plugins:
       separator: '[\s\u200b\-\.,!=\[\]()"`/]+'
   - minify:
       minify_html: true
+  - i18n:
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: de
+          name: Deutsch
+          build: true
+          nav_translations:
+            Welcome to Our Apartment: Willkommen in unserer Wohnung
+            Before You Arrive: Vor Ihrer Ankunft
+nav:
+  - Welcome to Our Apartment: index.md
+  - Before You Arrive: before-you-arrive.md
 
 extra:
   generator: false
