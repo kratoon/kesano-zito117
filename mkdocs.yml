@@ -1,0 +1,21 @@
+site_name: Zitna Apartment
+site_author: Ondrej Kratochvil
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: white
+      accent: custom
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search:
+      separator: '[\s\u200b\-\.,!=\[\]()"`/]+'
+  - minify:
+      minify_html: true
+
+extra:
+  generator: false
