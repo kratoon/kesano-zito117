@@ -3,7 +3,7 @@ site_author: kesano.cz
 
 theme:
   name: material
-  logo: public/logo.webp
+  logo: public/logo.png
   favicon: public/favicon.ico
   language: en
   palette:
@@ -13,6 +13,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search:
