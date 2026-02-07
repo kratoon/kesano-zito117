@@ -1,1 +1,6 @@
-# Zitna Apartment
+---
+hide:
+  - navigation
+---
+
+# Žitná Apartment
