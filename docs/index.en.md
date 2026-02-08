@@ -1,8 +1,6 @@
 # Welcome to Our Apartment
 
-Enjoy a stay in a modern apartment in the very center of Prague. The apartment
-is located in a newly built building in a quiet courtyard of a historic house
-where the composer Antonín Dvořák once lived.
+Enjoy a stay in a modern apartment in the very center of Prague. The apartmentis located in a newly built building in aquiet courtyard of a historic house where the composer Antonín Dvořák once lived.
 
 Just 1 minute walk from Karlovo Náměstí, with tram and metro stops within
 walking distance, it’s an ideal base for exploring the city. The street offers
