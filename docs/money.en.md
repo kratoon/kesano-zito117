@@ -17,17 +17,14 @@ For more information read their
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1jmZ7dEkDNIqSePBPzWHHjSQ5_m_97rOK" width="640" height="480"></iframe>
 
-## Honest Guide
+## Honest Guide YouTube Channel
 
-If you’re planning to visit Prague or just want an insider’s perspective on the
-city, I highly recommend the
-[Honest Guide](https://www.youtube.com/@HONESTGUIDE) YouTube channel. It’s full
-of practical tips, from navigating tourist traps and finding authentic local
-spots to avoiding scams and understanding public transport. The host presents
-everything in a clear, entertaining, and honest way, making it both informative
-and fun to watch. Whether you’re a first-time visitor or a repeat traveler,
-Honest Guide is an excellent resource to get the most out of your time in
-Prague.
+If you’re planning to exchange your money in Prague and want to avoid bad
+exchange rates or tourist traps, check out this YouTube video. It shows where
+you can change currency in the city and gives practical tips on what to watch
+out for when choosing a place to exchange your cash (especially important in
+busy areas where some bureaux de change advertise attractive rates that don’t
+reflect what you actually get).
 
 <div>
     <iframe
