@@ -21,7 +21,7 @@ Choose the cycle:
 | 11. | Covers, blankets     | 0 °C         | 0-40 °C      | 2.5 kg   |
 | 12. | Rinsing and spinning | -            | -            | 8 kg     |
 
-![washing-machine-cycle](/public/washing-machine-cycle.webp)
+![washing-machine-cycle](./public/washing-machine-cycle.webp)
 
 Settings:
 
@@ -35,7 +35,7 @@ Settings:
 | 18  | **Spin**        |
 | 19  | **Temperature** |
 
-![washing-machine-settings](/public/washing-machine-settings.webp)
+![washing-machine-settings](./public/washing-machine-settings.webp)
 
 ## Heating
 
@@ -48,4 +48,4 @@ room, one in the bathroom.
 - **Heating on/off indicators**: (4) white when heating is on, (5) white when
   heating is off. Use the switch (2) to turn heating on/off.
 
-![thermostat](/public/thermostat.webp)
+![thermostat](./public/thermostat.webp)
