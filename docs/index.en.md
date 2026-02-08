@@ -9,9 +9,16 @@ walking distance, it’s an ideal base for exploring the city. The street offers
 shops, cafés, bars, and traditional Czech pubs, while the apartment itself
 remains calm and peaceful.
 
-## How to Get
+![building](/public/building.webp)
 
-## YouTube Guide
+## Explore this Site
+
+You can use this site’s navigation on the left to explore everything you need to
+know about your stay at the apartment. Here, you’ll find helpful guides on how
+to get to the apartment, details on how to use the appliances during your stay
+and tips for getting around in Prague.
+
+## Getting Around in Prague (YouTube)
 
 If you’re planning to visit Prague or just want an insider’s perspective on the
 city, I highly recommend the
