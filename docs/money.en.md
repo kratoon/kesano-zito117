@@ -20,11 +20,12 @@ For more information read their
 ## Honest Guide YouTube Channel
 
 If you’re planning to exchange your money in Prague and want to avoid bad
-exchange rates or tourist traps, check out this YouTube video. It shows where
-you can change currency in the city and gives practical tips on what to watch
-out for when choosing a place to exchange your cash (especially important in
-busy areas where some bureaux de change advertise attractive rates that don’t
-reflect what you actually get).
+exchange rates or tourist traps, check out this
+[YouTube video](https://www.youtube.com/watch?v=_vq_YJjHoRs). It shows where you
+can change currency in the city and gives practical tips on what to watch out
+for when choosing a place to exchange your cash (especially important in busy
+areas where some bureaux de change advertise attractive rates that don’t reflect
+what you actually get).
 
 <div>
     <iframe
