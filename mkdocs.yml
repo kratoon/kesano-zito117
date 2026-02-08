@@ -3,8 +3,9 @@ site_author: kesano.cz
 
 theme:
   name: material
-  logo: public/logo.webp
+  logo: public/logo.png
   favicon: public/favicon.ico
+  language: en
   palette:
     - scheme: default
       primary: white
@@ -13,11 +14,29 @@ theme:
     text: Roboto
     code: Roboto Mono
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search:
       separator: '[\s\u200b\-\.,!=\[\]()"`/]+'
   - minify:
       minify_html: true
+  - i18n:
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+#        - locale: de
+#          name: Deutsch
+#          build: true
+#          nav_translations:
+#            Welcome to Our Apartment: Willkommen in unserer Wohnung
+#            Transportation: Transport
+nav:
+  - Welcome to Our Apartment: index.md
+  - Transportation: transportation.md
 
 extra:
   generator: false

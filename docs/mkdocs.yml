@@ -1,0 +1,34 @@
+site_name: Žitná Apartment
+site_author: kesano.cz
+
+theme:
+  name: material
+  logo: public/logo.webp
+  favicon: public/favicon.ico
+  language: en
+  palette:
+    - scheme: default
+      primary: white
+      accent: custom
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search:
+      separator: '[\s\u200b\-\.,!=\[\]()"`/]+'
+  - minify:
+      minify_html: true
+
+extra:
+  generator: false
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
+nav:
+  - Welcome to Our Apartment: /index.md
+  - Before You Arrive: /before-you-arrive.md
