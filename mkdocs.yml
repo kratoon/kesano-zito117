@@ -37,6 +37,7 @@ plugins:
 nav:
   - Welcome to Our Apartment: index.md
   - Transportation: transportation.md
+  - Apartment Guide: apartment-guide.md
   - Money: money.md
 
 extra:
