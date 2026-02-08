@@ -1,5 +1,17 @@
 {
   "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
     "prettier": "3.8.1"
+  },
+  "scripts": {
+    "prepare": "husky",
+    "format": "prettier . --write",
+    "lint-staged": "lint-staged"
+  },
+  "lint-staged": {
+    "docs/**/*": [
+      "npm run format"
+    ]
   }
 }
