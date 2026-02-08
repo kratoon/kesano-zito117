@@ -18,6 +18,9 @@ know about your stay at the apartment. Here, you’ll find helpful guides on how
 to get to the apartment, details on how to use the appliances during your stay
 and tips for getting around in Prague.
 
+You can download the content of this site as a PDF:
+[guide.pdf](/public/guide.pdf).
+
 ## Getting Around in Prague (YouTube)
 
 If you’re planning to visit Prague or just want an insider’s perspective on the
