@@ -24,7 +24,7 @@ plugins:
       minify_html: true
   - with-pdf:
       author: Žitná 564/14, 120 00 Nové Město
-      output_path: public/guide.pdf
+      output_path: guide.pdf
       copyright: "-"
       cover_title: "Žitná Apartment 117"
       cover_subtitle:
