@@ -1,8 +1,6 @@
 # Transportation
 
-Prague offers several easy and convenient ways to get around. The city has an
-**excellent public transport** system with metro lines, trams, and buses that
-are **reliable and affordable**. **Walking** is also a great option, especially
+Prague offers several easy and convenient ways to get around. The city has an **excellent public transport** system with metro lines, trams, and buses that are **reliable and affordable**. **Walking** is also a great option, especially
 in the **historic center** where many attractions are close to each other. Taxis
 and ride-sharing services like **Uber** and **Bolt** are widely available, and
 for a more active choice, you can rent **bikes** throughout the city.
