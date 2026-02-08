@@ -30,9 +30,11 @@ plugins:
       cover_subtitle:
         "Enjoy a stay in a modern apartment in the very center of Prague."
   - i18n:
-      default_language: en
       languages:
         - locale: en
+          name: English
+          default: true
+          build: true
 #        - locale: de
 #          name: Deutsch
 #          build: true
