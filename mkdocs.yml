@@ -28,12 +28,12 @@ plugins:
           default: true
           name: English
           build: true
-        - locale: de
-          name: Deutsch
-          build: true
-          nav_translations:
-            Welcome to Our Apartment: Willkommen in unserer Wohnung
-            Transportation: Transport
+#        - locale: de
+#          name: Deutsch
+#          build: true
+#          nav_translations:
+#            Welcome to Our Apartment: Willkommen in unserer Wohnung
+#            Transportation: Transport
 nav:
   - Welcome to Our Apartment: index.md
   - Transportation: transportation.md
