@@ -7,10 +7,11 @@
   "scripts": {
     "prepare": "husky",
     "format": "prettier . --write",
+    "lint": "prettier . --check",
     "lint-staged": "lint-staged"
   },
   "lint-staged": {
-    "docs/**/*": [
+    "**/*": [
       "npm run format"
     ]
   }
