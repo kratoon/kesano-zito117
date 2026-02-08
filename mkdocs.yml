@@ -36,6 +36,7 @@ plugins:
 #            Transportation: Transport
 nav:
   - Welcome to Our Apartment: index.md
+  - House Rules: house-rules.md
   - Transportation: transportation.md
   - Apartment Guide: apartment-guide.md
   - Money: money.md
