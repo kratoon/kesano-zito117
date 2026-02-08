@@ -33,10 +33,10 @@ plugins:
           build: true
           nav_translations:
             Welcome to Our Apartment: Willkommen in unserer Wohnung
-            Before You Arrive: Vor Ihrer Ankunft
+            Transportation: Transport
 nav:
   - Welcome to Our Apartment: index.md
-  - Before You Arrive: before-you-arrive.md
+  - Transportation: transportation.md
 
 extra:
   generator: false

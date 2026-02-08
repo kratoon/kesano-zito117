@@ -1,3 +1,0 @@
-# Vor Ihrer Ankunft
-
-DE
