@@ -24,16 +24,16 @@ plugins:
       minify_html: true
   - with-pdf:
       author: Žitná 564/14, 120 00 Nové Město
-      output_path: public/guide.pdf
+      output_path: guide.pdf
       copyright: "-"
-      cover_title: "Žitná Apartment"
+      cover_title: "Žitná Apartment 117"
       cover_subtitle:
         "Enjoy a stay in a modern apartment in the very center of Prague."
   - i18n:
       languages:
         - locale: en
-          default: true
           name: English
+          default: true
           build: true
 #        - locale: de
 #          name: Deutsch
@@ -43,6 +43,7 @@ plugins:
 #            Transportation: Transport
 nav:
   - Welcome to Our Apartment: index.md
+  - Access to the Property: door.md
   - House Rules: house-rules.md
   - Transportation: transportation.md
   - Apartment Guide: apartment-guide.md
