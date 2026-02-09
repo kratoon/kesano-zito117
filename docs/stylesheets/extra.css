@@ -3,11 +3,11 @@
     /*--md-primary-fg-color--light: #ECB7B7;*/
     /*--md-primary-fg-color--dark: #90030C;*/
     /*--color-secondary: rgba(234, 122, 255, 0.10196078431372549);*/
-    --color-secondar: rgb(127, 145, 133);
+    --color-secondar: rgb(187, 175, 151);
 }
 
 .md-header {
-    background-color: rgb(127, 145, 133);
+    background-color: rgb(187, 175, 151);
 }
 
 /*.md-tabs__item--active {*/
@@ -22,5 +22,5 @@
 /*}*/
 
 .md-footer {
-    background-color: rgb(222, 217, 182);
+    background-color: rgb(187, 175, 151);
 }
