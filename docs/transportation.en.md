@@ -10,8 +10,7 @@ for a more active choice, you can rent **bikes** throughout the city.
 ## From the Airport
 
 At Prague Airport, **Terminal 1** is used for flights **outside the Schengen
-Area**, while **Terminal 2** serves flights **within the Schengen Area**. The
-terminals are located close to each other and are easily accessible on foot.
+Area**, while **Terminal 2** serves flights **within the Schengen Area**.
 When arriving or departing, **make sure to check your terminal in advance**, as
 passport control procedures differ between the two.
 
