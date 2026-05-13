@@ -17,8 +17,6 @@ the PIN, you’ll hear it unlock, then simply push the door to open it.
 
 ![apartment](./public/apartment.webp)
 
-From inside the apartment, **press the center of the knob** to lock or unlock
-the door. When leaving the property, you can also **lock the door using the
+When leaving the property, you can also **lock the door using the
 chevron symbol** `◀` on the keypad.
 
-![nuki-lock](./public/nuki-lock.webp)
