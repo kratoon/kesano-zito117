@@ -92,11 +92,17 @@ only recommended if you travel long distances or outside the city.
 Information on **parking zones** in Prague can be found at
 [parking.praha.eu/en/parking-options-in-prague/parking-in-zones](https://parking.praha.eu/en/parking-options-in-prague/parking-in-zones/).
 
+Parking can be paid either at the parking machines located on the streets or conveniently through the PID Lítačka mobile app. Both options allow you to purchase a valid parking ticket for the selected parking zone.
+
+Blue parking zones are intended primarily for residents and permit holders, with very limited options for short-term visitor parking. Purple zones are generally less expensive and are available to visitors; in some areas they are even free during weekends. However, parking in purple zones is typically limited to a maximum stay of 24 hours.
+
 It is advisable to make use of **P+R car parks** where you can leave your car
 for the whole day fo a good price. Some P+R car parks are located directly at
 terminal metro stations, others can be found in key places convenient for
 drivers. You can find an up-to-date list of P+R car parks here
 [parking.praha.eu/en/parking-options-in-prague/pr-park-ride](https://parking.praha.eu/en/parking-options-in-prague/pr-park-ride/)
+
+[P+R Kongresové centrum Praha - Jih 1](https://maps.app.goo.gl/zyrsxqHqjmHaXHrg8) is conveniently located by the Vyšehrad metro station on Line C, just one metro stop from the apartment.
 
 ## Rent a Bike
 
